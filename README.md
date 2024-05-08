@@ -6,8 +6,6 @@ Welcome to our restaurant website project! This project is built using React, pr
 
 To explore the live version of the website, visit [here](https://tasty-react.vercel.app/).
 
-![Screenshot_2-3-2024_211452_tasty-react vercel app](https://github.com/ImeshaDilshani/tasty-react/assets/93858302/cce47142-9e9a-42cb-85ac-3703c70e5a38)
-
 ## Navbar
 The navigation bar provides easy access to different sections of our website:
 
@@ -41,7 +39,7 @@ To get started with running the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/ImeshaDilshani/tasty-react
+git clone https://github.com/AsMrProg16
 ```
 2. Navigate to the terminal
 ```
